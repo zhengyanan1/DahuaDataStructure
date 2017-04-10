@@ -6,6 +6,6 @@ package string;
 public class Test {
     public static void main(String[] args){
         System.out.println("1231".compareTo("1237"));
-        "hfdj".indexOf("23");
+        System.out.println("hfdj".indexOf("23"));
     }
 }
